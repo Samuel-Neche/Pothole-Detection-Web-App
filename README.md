@@ -25,7 +25,9 @@ A simple and intelligent web application that detects potholes in road images us
 * **Output**: Binary classification — `Pothole` or `Normal`
 
 ---
+## Live Demo ➜ [View on Hugging Face](https://huggingface.co/spaces/nechesdc/pothole-detection-app)
 
+---
 ## 🚀 How to Run Locally
 
 ### 1. Clone the Repository
