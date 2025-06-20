@@ -1,4 +1,4 @@
-# 🚳️ Pothole Detection Web App
+# 🚧 Pothole Detection Web App
 
 A simple and intelligent web application that detects potholes in road images using a fine-tuned **ResNet50** deep learning model. Built with **TensorFlow** and deployed using **Streamlit**, this app is designed to help identify damaged roads — a step toward smarter infrastructure monitoring.
 
